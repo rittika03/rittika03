@@ -55,7 +55,7 @@ I am currently a Bachelor of Technology student in Computer Science and Engineer
 ### 📫 **Connect with Me**
 
 * 📧 **Email:** [rittikasamanta03@gmail.com](mailto:rittikasamanta03@gmail.com)
-* 👔 **LinkedIn:** [linkedin.com/in/rittika-samanta](https://linkedin.com/in/rittika-samanta)## Hi there 👋
+* 👔 **LinkedIn:** [linkedin.com/in/rittika-samanta](https://linkedin.com/in/rittika-samanta)
 
 <!--
 **rittika03/rittika03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
